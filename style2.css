@@ -1,0 +1,47 @@
+.img1{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.rel1{
+position: relative;
+width: 600px;
+margin: auto;
+}
+
+.abs1{
+position:absolute;
+top: 25% ;
+left: 10%;
+color: rgb(255, 254, 254);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+}
+
+.abs2{
+    position:absolute;
+    top: 60%;
+    left: 40%;
+
+}
+
+.btn{
+    border:none;
+    background-color: white;
+    padding:10px 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+
+}
+
+.para1{
+    /* width: 10%; */
+    padding: 30px;
+    position:absolute;
+    box-sizing: border-box;
+    top: 39% ;
+    font-size: 15px;
+    color: rgb(255, 252, 252);
+    text-align: center;
+    left: 6%;
+}

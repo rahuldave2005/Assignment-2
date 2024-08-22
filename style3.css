@@ -1,0 +1,77 @@
+.img1{
+    width: 100%;
+    border-radius: 20px;
+}
+.rel1{
+position: relative;
+width: 600px;
+margin: 20px auto;
+}
+.abs1{
+position:absolute;
+top: 36% ;
+left: 40%;
+color: rgb(255, 255, 255);
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 30px;
+}
+.abs2{
+    position:absolute;
+    top: 70%;
+    left: 25%;
+    
+
+}
+.btn{
+    border:none;
+    background-color: rgb(247, 247, 247);
+    padding:10px 20px;
+    border-radius: 20px;
+    margin-top: 20px;
+
+}
+.para1{
+    width: 100%;
+    padding: 30px;
+    position:absolute;
+    box-sizing: border-box;
+    top: 50% ;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.para2{
+    width: 50%;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+}
+.img2{
+    position: absolute;
+    top: 75%;
+    left: 27%;
+    width: 4%;
+}
+.para3{
+    position: absolute;
+    top: 72.5%;
+    left: 31%;
+    color: gray;
+    border-right: 1px solid rgb(172, 172, 172);
+    padding-right: 40px;
+    font-size: 13px;
+}
+.icon{
+    position: absolute;
+    width: 22px;
+    top: 76%;
+    left: 49%;
+}
+.para4{
+    position: absolute;
+    top: 74.5%;
+    left: 53%;
+    color: gray;
+    border-right: 1px solid rgb(172, 172, 172);
+    padding-right: 40px;
+    font-size: 10px;
+}
